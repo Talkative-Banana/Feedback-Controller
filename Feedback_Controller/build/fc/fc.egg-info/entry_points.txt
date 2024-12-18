@@ -1,0 +1,2 @@
+[console_scripts]
+controller = fc.feedback:main

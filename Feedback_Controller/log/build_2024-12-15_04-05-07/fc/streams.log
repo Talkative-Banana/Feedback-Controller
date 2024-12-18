@@ -1,0 +1,37 @@
+[0.757s] Invoking command in '/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/src/fc': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fc build --build-base /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build install --record /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/install.log --single-version-externally-managed install_data
+[0.988s] running egg_info
+[0.988s] creating ../../build/fc/fc.egg-info
+[1.009s] writing ../../build/fc/fc.egg-info/PKG-INFO
+[1.009s] writing dependency_links to ../../build/fc/fc.egg-info/dependency_links.txt
+[1.009s] writing entry points to ../../build/fc/fc.egg-info/entry_points.txt
+[1.009s] writing requirements to ../../build/fc/fc.egg-info/requires.txt
+[1.009s] writing top-level names to ../../build/fc/fc.egg-info/top_level.txt
+[1.009s] writing manifest file '../../build/fc/fc.egg-info/SOURCES.txt'
+[1.046s] reading manifest file '../../build/fc/fc.egg-info/SOURCES.txt'
+[1.047s] writing manifest file '../../build/fc/fc.egg-info/SOURCES.txt'
+[1.047s] running build
+[1.047s] running build_py
+[1.047s] creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build
+[1.047s] creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib
+[1.047s] creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc
+[1.047s] copying fc/fc.py -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc
+[1.048s] copying fc/__init__.py -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc
+[1.048s] running install
+[1.053s] running install_lib
+[1.071s] creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc
+[1.072s] copying /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc/fc.py -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc
+[1.072s] copying /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc/__init__.py -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc
+[1.072s] byte-compiling /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc/fc.py to fc.cpython-312.pyc
+[1.073s] byte-compiling /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc/__init__.py to __init__.cpython-312.pyc
+[1.073s] running install_data
+[1.073s] creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/ament_index
+[1.073s] creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/ament_index/resource_index
+[1.073s] creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/ament_index/resource_index/packages
+[1.073s] copying resource/fc -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/ament_index/resource_index/packages
+[1.073s] copying package.xml -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/fc
+[1.073s] running install_egg_info
+[1.092s] Copying ../../build/fc/fc.egg-info to /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc-0.0.0-py3.12.egg-info
+[1.093s] running install_scripts
+[1.216s] Installing controller script to /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/fc
+[1.216s] writing list of installed files to '/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/install.log'
+[1.238s] Invoked command in '/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/src/fc' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fc build --build-base /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build install --record /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/install.log --single-version-externally-managed install_data

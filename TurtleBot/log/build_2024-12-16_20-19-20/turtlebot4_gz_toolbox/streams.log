@@ -1,0 +1,74 @@
+[0.011s] Invoking command in '/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/src/turtlebot4_simulator/turtlebot4_gz_toolbox -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox
+[0.058s] -- The C compiler identification is GNU 13.3.0
+[0.108s] -- The CXX compiler identification is GNU 13.3.0
+[0.122s] -- Detecting C compiler ABI info
+[0.205s] -- Detecting C compiler ABI info - done
+[0.212s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.212s] -- Detecting C compile features
+[0.212s] -- Detecting C compile features - done
+[0.221s] -- Detecting CXX compiler ABI info
+[0.311s] -- Detecting CXX compiler ABI info - done
+[0.318s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.318s] -- Detecting CXX compile features
+[0.319s] -- Detecting CXX compile features - done
+[0.323s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.457s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.518s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.573s] -- Found rclcpp: 28.1.5 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.627s] -- Found rosidl_generator_c: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.645s] -- Found rosidl_generator_cpp: 4.6.4 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.664s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.685s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.773s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.778s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.871s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[0.891s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[0.914s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.993s] -- Found rclcpp_action: 28.1.5 (/opt/ros/jazzy/share/rclcpp_action/cmake)
+[1.041s] -- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.056s] -- Found sensor_msgs: 5.3.5 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+[1.095s] -- Found turtlebot4_msgs: 2.0.1 (/opt/ros/jazzy/share/turtlebot4_msgs/cmake)
+[1.112s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.218s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.218s] -- Configured cppcheck include dirs: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/src/turtlebot4_simulator/turtlebot4_gz_toolbox/include
+[1.218s] -- Configured cppcheck exclude dirs and/or files: 
+[1.219s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.219s] -- Configured cpplint exclude dirs and/or files: 
+[1.220s] -- Added test 'lint_cmake' to check CMake code style
+[1.221s] -- Added test 'uncrustify' to check C / C++ code style
+[1.221s] -- Configured uncrustify additional arguments: 
+[1.222s] -- Added test 'xmllint' to check XML markup files
+[1.224s] -- Configuring done (1.2s)
+[1.239s] -- Generating done (0.0s)
+[1.243s] -- Build files have been written to: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox
+[1.252s] Invoked command in '/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/src/turtlebot4_simulator/turtlebot4_gz_toolbox -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox
+[1.254s] Invoking command in '/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox -- -j16 -l16
+[1.309s] [ 40%] [32mBuilding CXX object CMakeFiles/turtlebot4_gz_toolbox_lib.dir/src/hmi_main.cpp.o[0m
+[1.309s] [ 40%] [32mBuilding CXX object CMakeFiles/turtlebot4_gz_toolbox_lib.dir/src/hmi_node.cpp.o[0m
+[10.857s] [ 60%] [32m[1mLinking CXX static library libturtlebot4_gz_toolbox_lib.a[0m
+[11.046s] [ 60%] Built target turtlebot4_gz_toolbox_lib
+[11.066s] [ 80%] [32mBuilding CXX object CMakeFiles/turtlebot4_gz_hmi_node.dir/src/hmi_main.cpp.o[0m
+[13.381s] [100%] [32m[1mLinking CXX executable turtlebot4_gz_hmi_node[0m
+[13.714s] [100%] Built target turtlebot4_gz_hmi_node
+[13.725s] Invoked command in '/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox -- -j16 -l16
+[13.726s] Invoking command in '/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox
+[13.736s] -- Install configuration: ""
+[13.736s] -- Execute custom install script
+[13.737s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/lib/turtlebot4_gz_toolbox/turtlebot4_gz_hmi_node
+[13.746s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/package_run_dependencies/turtlebot4_gz_toolbox
+[13.755s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/parent_prefix_path/turtlebot4_gz_toolbox
+[13.763s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/ament_prefix_path.sh
+[13.772s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/ament_prefix_path.dsv
+[13.781s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/path.sh
+[13.789s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/environment/path.dsv
+[13.797s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.bash
+[13.806s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.sh
+[13.814s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.zsh
+[13.823s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/local_setup.dsv
+[13.834s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/package.dsv
+[13.844s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/ament_index/resource_index/packages/turtlebot4_gz_toolbox
+[13.853s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/ament_cmake_export_include_directories-extras.cmake
+[13.861s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/turtlebot4_gz_toolboxConfig.cmake
+[13.869s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/cmake/turtlebot4_gz_toolboxConfig-version.cmake
+[13.878s] -- Symlinking: /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/install/turtlebot4_gz_toolbox/share/turtlebot4_gz_toolbox/package.xml
+[13.888s] Invoked command in '/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox

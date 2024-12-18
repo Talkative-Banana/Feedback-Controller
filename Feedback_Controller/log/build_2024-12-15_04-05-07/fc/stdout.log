@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/fc/fc.egg-info
+writing ../../build/fc/fc.egg-info/PKG-INFO
+writing dependency_links to ../../build/fc/fc.egg-info/dependency_links.txt
+writing entry points to ../../build/fc/fc.egg-info/entry_points.txt
+writing requirements to ../../build/fc/fc.egg-info/requires.txt
+writing top-level names to ../../build/fc/fc.egg-info/top_level.txt
+writing manifest file '../../build/fc/fc.egg-info/SOURCES.txt'
+reading manifest file '../../build/fc/fc.egg-info/SOURCES.txt'
+writing manifest file '../../build/fc/fc.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build
+creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib
+creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc
+copying fc/fc.py -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc
+copying fc/__init__.py -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc
+running install
+running install_lib
+creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc
+copying /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc/fc.py -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc
+copying /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/build/lib/fc/__init__.py -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc
+byte-compiling /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc/fc.py to fc.cpython-312.pyc
+byte-compiling /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/ament_index
+creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/ament_index/resource_index
+creating /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/ament_index/resource_index/packages
+copying resource/fc -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/ament_index/resource_index/packages
+copying package.xml -> /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/share/fc
+running install_egg_info
+Copying ../../build/fc/fc.egg-info to /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/python3.12/site-packages/fc-0.0.0-py3.12.egg-info
+running install_scripts
+Installing controller script to /home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/install/fc/lib/fc
+writing list of installed files to '/home/lakshay/Walt/Sem7/IRob/Project/Feedback_Controller/build/fc/install.log'

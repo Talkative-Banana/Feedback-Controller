@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f43a30ad3bcf6e6af012.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "turtlebot4_gz_toolbox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_gz_hmi_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_gz_hmi_node-8596671fa62e33e37df8.json",
+					"name" : "turtlebot4_gz_hmi_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_gz_toolbox_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_gz_toolbox_lib-04aacb36ed6fd80c0ba3.json",
+					"name" : "turtlebot4_gz_toolbox_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_gz_toolbox_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_gz_toolbox_uninstall-2f71620f9cc3ef265fa6.json",
+					"name" : "turtlebot4_gz_toolbox_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-2f353ea1ccb8871d7231.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_toolbox",
+		"source" : "/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/src/turtlebot4_simulator/turtlebot4_gz_toolbox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

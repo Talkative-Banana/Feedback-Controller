@@ -1,0 +1,1 @@
+/home/lakshay/Walt/Sem7/IRob/Project/TurtleBot/build/turtlebot4_gz_gui_plugins/ament_cmake_core/turtlebot4_gz_gui_pluginsConfig-version.cmake
